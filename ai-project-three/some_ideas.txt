@@ -1,0 +1,16 @@
+Classes:
+Board - create global instance called current, handle possible instances in algorithm
+-array[i][j] - static? ints for initially filled cells, ints for newly filled cells, arrays for possibles ints
+KnowledgeBase - create global instance
+Algorithm - create global instance
+-infinite loop
+--eliminate possibilities
+--assign known values
+--continue until solved or no changes made
+-techniques
+--only x in a row or column, only x in a square
+--naked/hidden x,y;x,y,z;x,y,z,w
+--double row elimination -> --- --- elim
+							--- --- elim
+								    ---
+--forcing chains,nishio

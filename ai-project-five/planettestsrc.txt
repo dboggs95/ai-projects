@@ -1,0 +1,21 @@
+Massive
+LiquidWater
+MagneticField
+Single
+Rocky
+Atmosphere
+HABITABLE
+
+Mercury 1,0,1,1,1,0,0
+Venus 1,0,0,1,1,1,0
+Earth 1,1,1,0,1,1,1
+Moon 1,0,0,0,1,0,0
+Mars 1,1,0,1,1,1,0
+Ceres 0,0,0,1,1,0,0
+Jupiter 1,0,1,0,0,1,0
+Saturn 1,0,1,0,0,1,0
+Titan 1,1,1,0,1,1,0
+Uranus 1,0,1,0,0,1,0
+Neptune 1,0,1,0,0,1,0
+Pluto 0,1,0,0,1,1,0
+PlanetX 1,0,1,0,0,1,0
